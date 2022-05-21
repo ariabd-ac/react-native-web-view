@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Absensi.app"
-               BlueprintName = "Absensi"
-               ReferencedContainer = "container:Absensi.xcodeproj">
+               BuildableName = "PetugasBendungApp.app"
+               BlueprintName = "PetugasBendungApp"
+               ReferencedContainer = "container:PetugasBendungApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "AbsensiTests.xctest"
-               BlueprintName = "AbsensiTests"
-               ReferencedContainer = "container:Absensi.xcodeproj">
+               BuildableName = "PetugasBendungAppTests.xctest"
+               BlueprintName = "PetugasBendungAppTests"
+               ReferencedContainer = "container:PetugasBendungApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Absensi.app"
-            BlueprintName = "Absensi"
-            ReferencedContainer = "container:Absensi.xcodeproj">
+            BuildableName = "PetugasBendungApp.app"
+            BlueprintName = "PetugasBendungApp"
+            ReferencedContainer = "container:PetugasBendungApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Absensi.app"
-            BlueprintName = "Absensi"
-            ReferencedContainer = "container:Absensi.xcodeproj">
+            BuildableName = "PetugasBendungApp.app"
+            BlueprintName = "PetugasBendungApp"
+            ReferencedContainer = "container:PetugasBendungApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

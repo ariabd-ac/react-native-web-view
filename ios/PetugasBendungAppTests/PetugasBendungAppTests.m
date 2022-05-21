@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface AbsensiTests : XCTestCase
+@interface PetugasBendungAppTests : XCTestCase
 
 @end
 
-@implementation AbsensiTests
+@implementation PetugasBendungAppTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
